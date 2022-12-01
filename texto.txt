@@ -13,4 +13,7 @@ Master 1
 
 Master 2
 
+stash fadsobfñjka{sd
+}
+
 Esta es una modificacion desde el fork de Pitao.
